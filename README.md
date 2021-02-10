@@ -24,31 +24,31 @@
 
 Example command:
 
-yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/MauroS5/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "0" "ad9c2be6e5cb12fa84ca51ec64c47a6b"
+yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/ForNesiaFreak/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "0" "ad9c2be6e5cb12fa84ca51ec64c47a6b"
 
 📌 1 -> **Advanced version, code will ask you some questions to make it more custom**
 
 Example command:
 
-yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/MauroS5/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "1"
+yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/ForNesiaFreak/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "1"
 
 📌 2 -> **Script version, all in one code by arguments ( You need set it on this order: "Type (0,1,2)" "Token" "Number of sessions" "MaxCpu ussage (Dont use %, just number) "Restart time (Read more down 👇)" "Sessions AI (Read more down 👇)" "Note of viewer" "Proxy Server"**
 
 Example command(9Hits Proxy Server) NO AI:
 
-yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/MauroS5/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "2" "ad9c2be6e5cb12fa84ca51ec64c47a6b" "15" "10" "1" "0" "vps1"
+yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/ForNesiaFreak/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "2" "ad9c2be6e5cb12fa84ca51ec64c47a6b" "15" "10" "1" "0" "vps1"
 
 Example command(9Hits Proxy Server) WITH AI:
 
-yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/MauroS5/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "2" "ad9c2be6e5cb12fa84ca51ec64c47a6b" "15" "10" "1" "3" "vps1"
+yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/ForNesiaFreak/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "2" "ad9c2be6e5cb12fa84ca51ec64c47a6b" "15" "10" "1" "3" "vps1"
 
 Example command(Own Proxy Server) NO AI:
 
-yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/MauroS5/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "2" "ad9c2be6e5cb12fa84ca51ec64c47a6b" "15" "10" "1" "0" "vps1" "http://proxyserver.com/index.php"
+yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/ForNesiaFreak/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "2" "ad9c2be6e5cb12fa84ca51ec64c47a6b" "15" "10" "1" "0" "vps1" "http://proxyserver.com/index.php"
 
 Example command(Own Proxy Server) WITH AI:
 
-yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/MauroS5/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "2" "ad9c2be6e5cb12fa84ca51ec64c47a6b" "15" "10" "1" "2" "vps1" "http://proxyserver.com/index.php"
+yum -y update || apt update && yum -y install git whiptail || apt install -y git whiptail && cd /root && git clone https://github.com/ForNesiaFreak/9Hits-AutoInstall.git && chmod -R 777 9Hits-AutoInstall && 9Hits-AutoInstall/install.sh "2" "ad9c2be6e5cb12fa84ca51ec64c47a6b" "15" "10" "1" "2" "vps1" "http://proxyserver.com/index.php"
 
 👉 Restart time have 6 levels:
 
